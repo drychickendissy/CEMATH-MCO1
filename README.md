@@ -150,8 +150,8 @@ The program checks:
 
 This project demonstrates:
 
-Numerical integration techniques
+- Numerical integration techniques
 
-MATLAB programming fundamentals
+- MATLAB programming fundamentals
 
-Proper handling of piecewise areas in definite integrals
+- Proper handling of piecewise areas in definite integrals
