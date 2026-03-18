@@ -129,7 +129,6 @@ The program checks:
 ```text
 /project-folder
 │── myMP1.m              # Main script (Version 1)
-│── mpMP1_ver2.m         # Main script (Version 2)
 │── README.md            # Project documentation
 │── documentation.pdf    # Full report (derivations + screenshots)
 ```
